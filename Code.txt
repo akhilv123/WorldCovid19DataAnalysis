@@ -1,0 +1,18 @@
+First download the world covid19 data as excel file.
+
+Source:https://ourworldindata.org/covid-cases
+
+Now seperate the daily cases data for China using pivot tables.
+
+Now plot the time series of daily cases.
+
+Now, we use the inbuilt Forecast.ETS function in excel to forecast the daily cases for 3 months.
+
+Now, we will encode the SIR model in Excel using Euler's method and a trial simulation is performed using ballpark estimates.
+
+Now, we will estimate the SIR Model parameters using least squares fitting via Trendline in Excel.
+
+First, the fitting is done on daily new cases data and parameters are estimated.
+
+After that, the fitting is done on daily cumulative cases data and parameters are estimated.
+
